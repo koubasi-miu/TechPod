@@ -15,6 +15,17 @@
 		9D145C1A25D6967A00483C5D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D145C1825D6967A00483C5D /* LaunchScreen.storyboard */; };
 		9D145C2525D6967A00483C5D /* TechPodTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D145C2425D6967A00483C5D /* TechPodTests.swift */; };
 		9D145C3025D6967A00483C5D /* TechPodUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D145C2F25D6967A00483C5D /* TechPodUITests.swift */; };
+		9D56153625E8F7D700F2FE80 /* hiten.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9D56153025E8F7D700F2FE80 /* hiten.jpg */; };
+		9D56153725E8F7D700F2FE80 /* daisukeritya-do.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9D56153125E8F7D700F2FE80 /* daisukeritya-do.jpg */; };
+		9D56153825E8F7D700F2FE80 /* akakura.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9D56153225E8F7D700F2FE80 /* akakura.jpg */; };
+		9D56153925E8F7D700F2FE80 /* motizuki.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9D56153325E8F7D700F2FE80 /* motizuki.jpg */; };
+		9D56153A25E8F7D700F2FE80 /* ダイスケリチャードさん.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9D56153425E8F7D700F2FE80 /* ダイスケリチャードさん.jpg */; };
+		9D56153B25E8F7D700F2FE80 /* aobeni.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9D56153525E8F7D700F2FE80 /* aobeni.jpg */; };
+		9D56154825E8FBC800F2FE80 /* motizuki.webloc in Resources */ = {isa = PBXBuildFile; fileRef = 9D56154325E8FBC800F2FE80 /* motizuki.webloc */; };
+		9D56154925E8FBC800F2FE80 /* aobeni.webloc in Resources */ = {isa = PBXBuildFile; fileRef = 9D56154425E8FBC800F2FE80 /* aobeni.webloc */; };
+		9D56154A25E8FBC800F2FE80 /* daisuke.webloc in Resources */ = {isa = PBXBuildFile; fileRef = 9D56154525E8FBC800F2FE80 /* daisuke.webloc */; };
+		9D56154B25E8FBC800F2FE80 /* akakura.webloc in Resources */ = {isa = PBXBuildFile; fileRef = 9D56154625E8FBC800F2FE80 /* akakura.webloc */; };
+		9D56154C25E8FBC800F2FE80 /* hiten.webloc in Resources */ = {isa = PBXBuildFile; fileRef = 9D56154725E8FBC800F2FE80 /* hiten.webloc */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +60,17 @@
 		9D145C2B25D6967A00483C5D /* TechPodUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TechPodUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D145C2F25D6967A00483C5D /* TechPodUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TechPodUITests.swift; sourceTree = "<group>"; };
 		9D145C3125D6967A00483C5D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9D56153025E8F7D700F2FE80 /* hiten.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hiten.jpg; sourceTree = "<group>"; };
+		9D56153125E8F7D700F2FE80 /* daisukeritya-do.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "daisukeritya-do.jpg"; sourceTree = "<group>"; };
+		9D56153225E8F7D700F2FE80 /* akakura.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = akakura.jpg; sourceTree = "<group>"; };
+		9D56153325E8F7D700F2FE80 /* motizuki.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = motizuki.jpg; sourceTree = "<group>"; };
+		9D56153425E8F7D700F2FE80 /* ダイスケリチャードさん.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ダイスケリチャードさん.jpg"; sourceTree = "<group>"; };
+		9D56153525E8F7D700F2FE80 /* aobeni.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aobeni.jpg; sourceTree = "<group>"; };
+		9D56154325E8FBC800F2FE80 /* motizuki.webloc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = motizuki.webloc; sourceTree = "<group>"; };
+		9D56154425E8FBC800F2FE80 /* aobeni.webloc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = aobeni.webloc; sourceTree = "<group>"; };
+		9D56154525E8FBC800F2FE80 /* daisuke.webloc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = daisuke.webloc; sourceTree = "<group>"; };
+		9D56154625E8FBC800F2FE80 /* akakura.webloc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = akakura.webloc; sourceTree = "<group>"; };
+		9D56154725E8FBC800F2FE80 /* hiten.webloc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = hiten.webloc; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +121,7 @@
 		9D145C0C25D6967900483C5D /* TechPod */ = {
 			isa = PBXGroup;
 			children = (
+				9D56151A25E8F2E900F2FE80 /* New Group */,
 				9D145C0D25D6967900483C5D /* AppDelegate.swift */,
 				9D145C0F25D6967900483C5D /* SceneDelegate.swift */,
 				9D145C1125D6967900483C5D /* ViewController.swift */,
@@ -126,6 +149,40 @@
 				9D145C3125D6967A00483C5D /* Info.plist */,
 			);
 			path = TechPodUITests;
+			sourceTree = "<group>";
+		};
+		9D56151A25E8F2E900F2FE80 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				9D56154225E8FBC800F2FE80 /* ツイッター */,
+				9D56152F25E8F7D700F2FE80 /* イラストレーターさん */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		9D56152F25E8F7D700F2FE80 /* イラストレーターさん */ = {
+			isa = PBXGroup;
+			children = (
+				9D56153025E8F7D700F2FE80 /* hiten.jpg */,
+				9D56153125E8F7D700F2FE80 /* daisukeritya-do.jpg */,
+				9D56153225E8F7D700F2FE80 /* akakura.jpg */,
+				9D56153325E8F7D700F2FE80 /* motizuki.jpg */,
+				9D56153425E8F7D700F2FE80 /* ダイスケリチャードさん.jpg */,
+				9D56153525E8F7D700F2FE80 /* aobeni.jpg */,
+			);
+			path = "イラストレーターさん";
+			sourceTree = "<group>";
+		};
+		9D56154225E8FBC800F2FE80 /* ツイッター */ = {
+			isa = PBXGroup;
+			children = (
+				9D56154325E8FBC800F2FE80 /* motizuki.webloc */,
+				9D56154425E8FBC800F2FE80 /* aobeni.webloc */,
+				9D56154525E8FBC800F2FE80 /* daisuke.webloc */,
+				9D56154625E8FBC800F2FE80 /* akakura.webloc */,
+				9D56154725E8FBC800F2FE80 /* hiten.webloc */,
+			);
+			path = "ツイッター";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,9 +288,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D56153825E8F7D700F2FE80 /* akakura.jpg in Resources */,
+				9D56154825E8FBC800F2FE80 /* motizuki.webloc in Resources */,
+				9D56153A25E8F7D700F2FE80 /* ダイスケリチャードさん.jpg in Resources */,
+				9D56154B25E8FBC800F2FE80 /* akakura.webloc in Resources */,
+				9D56154C25E8FBC800F2FE80 /* hiten.webloc in Resources */,
+				9D56153925E8F7D700F2FE80 /* motizuki.jpg in Resources */,
 				9D145C1A25D6967A00483C5D /* LaunchScreen.storyboard in Resources */,
+				9D56153B25E8F7D700F2FE80 /* aobeni.jpg in Resources */,
+				9D56154A25E8FBC800F2FE80 /* daisuke.webloc in Resources */,
 				9D145C1725D6967A00483C5D /* Assets.xcassets in Resources */,
+				9D56153625E8F7D700F2FE80 /* hiten.jpg in Resources */,
+				9D56153725E8F7D700F2FE80 /* daisukeritya-do.jpg in Resources */,
 				9D145C1525D6967900483C5D /* Main.storyboard in Resources */,
+				9D56154925E8FBC800F2FE80 /* aobeni.webloc in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
