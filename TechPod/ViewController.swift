@@ -24,12 +24,14 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCell(withIdentifier: "Cell")
-        
+        //let cell = table.dequeueReusableCell(withIdentifier: "Cell")
+        let cell = table.dequeueReusableCell(withIdentifier: "Cell")
         cell?.textLabel?.text = nameArray[indexPath.row]
         
         cell?.imageView?.image = UIImage(named: imageNameArray[indexPath.row])
         return cell!
+        
+
     }
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
@@ -49,7 +51,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
 
         table.dataSource = self
         table.delegate = self
-        
+        table.reloadData()
         nameArray = ["赤倉", "Hiten", "望月けい", "青紅", "ダイスケリチャード"]
         
         imageNameArray = ["akakura.jpg", "hiten.jpg", "motizuki.jpg", "aobeni.jpg", "daisukeritya-do.jpg"]
@@ -62,8 +64,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
             super.didReceiveMemoryWarning()
         }
     
-    func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
-        return 150
-    }
+//    func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
+//        return 150
+//    }
     
 }
